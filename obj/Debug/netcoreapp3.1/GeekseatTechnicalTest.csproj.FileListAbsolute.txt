@@ -11,3 +11,16 @@ D:\WorkingSpace\Job Test Praparation\GeekseatTechnicalTest\obj\Debug\netcoreapp3
 D:\WorkingSpace\Job Test Praparation\GeekseatTechnicalTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.dll
 D:\WorkingSpace\Job Test Praparation\GeekseatTechnicalTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.pdb
 D:\WorkingSpace\Job Test Praparation\GeekseatTechnicalTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.genruntimeconfig.cache
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\bin\Debug\netcoreapp3.1\GeekseatTechnicalTest.exe
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\bin\Debug\netcoreapp3.1\GeekseatTechnicalTest.deps.json
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\bin\Debug\netcoreapp3.1\GeekseatTechnicalTest.runtimeconfig.json
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\bin\Debug\netcoreapp3.1\GeekseatTechnicalTest.runtimeconfig.dev.json
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\bin\Debug\netcoreapp3.1\GeekseatTechnicalTest.dll
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\bin\Debug\netcoreapp3.1\GeekseatTechnicalTest.pdb
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.csprojAssemblyReference.cache
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.AssemblyInfoInputs.cache
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.AssemblyInfo.cs
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.csproj.CoreCompileInputs.cache
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.dll
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.pdb
+D:\WorkingSpace\Job Test Praparation\GeekseatTest\obj\Debug\netcoreapp3.1\GeekseatTechnicalTest.genruntimeconfig.cache

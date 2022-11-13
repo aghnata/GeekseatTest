@@ -8,7 +8,13 @@ namespace GeekseatTechnicalTest
         static void Main(string[] args)
         {
             var v = new VillagerBL();
-            v.AverageKilled(2);
+
+            Console.WriteLine("Welcome... ");
+
+            Console.WriteLine("Input number of villagers: ");
+            decimal villagerNumber = decimal.Parse(Console.ReadLine());
+
+            v.AverageKilled(villagerNumber);
         }
     }
 }
